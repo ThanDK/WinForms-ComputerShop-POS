@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\65011211044\\Computer Shop Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlDashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\UserControlDashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlCategory.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\UserControlCategory.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormForgotPassword.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\FormForgotPassword.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormForgotPassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\FormForgotPassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\FormLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\FormLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\Properties\\Resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\Resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\UserControlUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlSupplie.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\UserControlSupplie.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormForgotPassword.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\FormForgotPassword.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlSupplie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\UserControlSupplie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\UserControlReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\UserControlProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\UserControlOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlMember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\UserControlMember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\UserControlCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlBrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\UserControlBrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormMain.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\FormMain.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\FormMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\Computer Shop Management System.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Computer Shop Management System.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlUser.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAL\\UserControlUser.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlCategory.resx",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlCategory.resx",
+              "RelativeDocumentMoniker": "PAL\\UserControlCategory.resx",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlCategory.resx",
+              "RelativeToolTip": "PAL\\UserControlCategory.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-24T02:47:24.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "PAL\\FormLogin.Designer.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormLogin.Designer.cs",
+              "RelativeToolTip": "PAL\\FormLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:33:46.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-24T02:18:40.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormForgotPassword.Designer.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormForgotPassword.Designer.cs",
+              "RelativeDocumentMoniker": "PAL\\FormForgotPassword.Designer.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormForgotPassword.Designer.cs",
+              "RelativeToolTip": "PAL\\FormForgotPassword.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:35:07.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormLogin.cs",
+              "RelativeDocumentMoniker": "PAL\\FormLogin.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormLogin.cs",
+              "RelativeToolTip": "PAL\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:35:31.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControlDashboard.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlDashboard.cs",
+              "RelativeDocumentMoniker": "PAL\\UserControlDashboard.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlDashboard.cs",
+              "RelativeToolTip": "PAL\\UserControlDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:23:37.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-08-24T02:31:34.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-24T02:31:32.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormForgotPassword.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormForgotPassword.cs",
+              "RelativeDocumentMoniker": "PAL\\FormForgotPassword.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormForgotPassword.cs",
+              "RelativeToolTip": "PAL\\FormForgotPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:19:45.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormForgotPassword.resx",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormForgotPassword.resx",
+              "RelativeDocumentMoniker": "PAL\\FormForgotPassword.resx",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormForgotPassword.resx",
+              "RelativeToolTip": "PAL\\FormForgotPassword.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-24T02:19:42.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControlSupplie.resx",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlSupplie.resx",
+              "RelativeDocumentMoniker": "PAL\\UserControlSupplie.resx",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlSupplie.resx",
+              "RelativeToolTip": "PAL\\UserControlSupplie.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-19T07:35:37.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControlUser.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlUser.cs",
+              "RelativeDocumentMoniker": "PAL\\UserControlUser.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlUser.cs",
+              "RelativeToolTip": "PAL\\UserControlUser.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:35:39.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserControlOrder.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlOrder.cs",
+              "RelativeDocumentMoniker": "PAL\\UserControlOrder.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlOrder.cs",
+              "RelativeToolTip": "PAL\\UserControlOrder.cs",
+              "ViewState": "AgIAAAIDAAAAAAAAAAAgwCwDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:23:51.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserControlProduct.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlProduct.cs",
+              "RelativeDocumentMoniker": "PAL\\UserControlProduct.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlProduct.cs",
+              "RelativeToolTip": "PAL\\UserControlProduct.cs",
+              "ViewState": "AgIAAJIBAAAAAAAAAAAgwLwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:23:56.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControlReport.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlReport.cs",
+              "RelativeDocumentMoniker": "PAL\\UserControlReport.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlReport.cs",
+              "RelativeToolTip": "PAL\\UserControlReport.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAgwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:24:01.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserControlSupplie.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlSupplie.cs",
+              "RelativeDocumentMoniker": "PAL\\UserControlSupplie.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlSupplie.cs",
+              "RelativeToolTip": "PAL\\UserControlSupplie.cs",
+              "ViewState": "AgIAAHICAAAAAAAAAAAgwJwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:24:04.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserControlMember.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlMember.cs",
+              "RelativeDocumentMoniker": "PAL\\UserControlMember.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlMember.cs",
+              "RelativeToolTip": "PAL\\UserControlMember.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:23:41.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserControlCategory.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlCategory.cs",
+              "RelativeDocumentMoniker": "PAL\\UserControlCategory.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlCategory.cs",
+              "RelativeToolTip": "PAL\\UserControlCategory.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAgwA8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:23:30.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserControlBrand.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlBrand.cs",
+              "RelativeDocumentMoniker": "PAL\\UserControlBrand.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlBrand.cs",
+              "RelativeToolTip": "PAL\\UserControlBrand.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAgwCUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:23:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "PAL\\FormMain.Designer.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormMain.Designer.cs",
+              "RelativeToolTip": "PAL\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:23:21.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormMain.cs",
+              "RelativeDocumentMoniker": "PAL\\FormMain.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\FormMain.cs",
+              "RelativeToolTip": "PAL\\FormMain.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAgwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:19:38.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Computer Shop Management System.csproj",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\Computer Shop Management System.csproj",
+              "RelativeDocumentMoniker": "Computer Shop Management System.csproj",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\Computer Shop Management System.csproj",
+              "RelativeToolTip": "Computer Shop Management System.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-24T02:18:36.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserControlUser.Designer.cs",
+              "DocumentMoniker": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlUser.Designer.cs",
+              "RelativeDocumentMoniker": "PAL\\UserControlUser.Designer.cs",
+              "ToolTip": "E:\\C#\\65011211044\\Computer Shop Management System\\PAL\\UserControlUser.Designer.cs",
+              "RelativeToolTip": "PAL\\UserControlUser.Designer.cs",
+              "ViewState": "AgIAAAECAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:35:40.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

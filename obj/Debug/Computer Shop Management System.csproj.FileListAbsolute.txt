@@ -1,0 +1,137 @@
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe.config
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer Shop Management System.pdb
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.AssemblyReference.cache
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormLogin.resources
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.Properties.Resources.resources
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.GenerateResource.cache
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.exe
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.pdb
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer.dll
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CopyComplete
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormForgotPassword.resources
+C:\Users\thana\Downloads\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.AssemblyReference.cache
+C:\Users\thana\Downloads\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormForgotPassword.resources
+C:\Users\thana\Downloads\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormLogin.resources
+C:\Users\thana\Downloads\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.Properties.Resources.resources
+C:\Users\thana\Downloads\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.GenerateResource.cache
+C:\Users\thana\Downloads\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\thana\Downloads\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.exe
+C:\Users\thana\Downloads\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.pdb
+C:\Users\thana\Downloads\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe.config
+C:\Users\thana\Downloads\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe
+C:\Users\thana\Downloads\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer Shop Management System.pdb
+C:\Users\thana\Downloads\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CopyComplete
+C:\Users\thana\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormMain.resources
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe.config
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\bin\Debug\Computer Shop Management System.pdb
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\bin\Debug\Computer.dll
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.AssemblyReference.cache
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormForgotPassword.resources
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormLogin.resources
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormMain.resources
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlDashboard.resources
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.Properties.Resources.resources
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.GenerateResource.cache
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CopyComplete
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\obj\Debug\Computer Shop Management System.exe
+C:\Users\thana\source\repos\Computer before\Computer Shop Management System\obj\Debug\Computer Shop Management System.pdb
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe.config
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\bin\Debug\Computer Shop Management System.pdb
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\bin\Debug\Computer.dll
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.AssemblyReference.cache
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormForgotPassword.resources
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormLogin.resources
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormMain.resources
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlBrand.resources
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlDashboard.resources
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.Properties.Resources.resources
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.GenerateResource.cache
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CopyComplete
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer Shop Management System.exe
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer Shop Management System.pdb
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlCategory.resources
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlProduct.resources
+C:\Users\thana\source\repos\Computer MAIN\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlOrder.resources
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.AssemblyReference.cache
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormForgotPassword.resources
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormLogin.resources
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormMain.resources
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlBrand.resources
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlCategory.resources
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlDashboard.resources
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlOrder.resources
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlProduct.resources
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.Properties.Resources.resources
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.GenerateResource.cache
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer Shop Management System.exe
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer Shop Management System.pdb
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe.config
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\bin\Debug\Computer Shop Management System.pdb
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\bin\Debug\Computer.dll
+C:\Users\thana\source\repos\Computer MAIN - Copy (3)\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CopyComplete
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe.config
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\bin\Debug\Computer Shop Management System.pdb
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.AssemblyReference.cache
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormForgotPassword.resources
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormLogin.resources
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormMain.resources
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlBrand.resources
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlCategory.resources
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlDashboard.resources
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlOrder.resources
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlProduct.resources
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlSupplie.resources
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.Properties.Resources.resources
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.GenerateResource.cache
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer Shop Management System.exe
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer Shop Management System.pdb
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlReport.resources
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer.AFD26A0C.Up2Date
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlUser.resources
+C:\Users\thana\source\repos\Computer Alpja\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlMember.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe.config
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\bin\Debug\Computer Shop Management System.pdb
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.AssemblyReference.cache
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormForgotPassword.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormLogin.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.FormMain.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlBrand.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlCategory.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlDashboard.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlMember.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlOrder.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlProduct.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlReport.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlSupplie.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.PAL.UserControlUser.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.Properties.Resources.resources
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.GenerateResource.cache
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer.AFD26A0C.Up2Date
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer Shop Management System.exe
+C:\Users\thana\source\repos\65011211044\Computer Shop Management System\obj\Debug\Computer Shop Management System.pdb
+E:\C#\65011211044\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.AssemblyReference.cache
+E:\C#\65011211044\Computer Shop Management System\obj\Debug\Computer Shop Management System.exe.config
+E:\C#\65011211044\Computer Shop Management System\obj\Debug\Computer Shop Management System.exe
+E:\C#\65011211044\Computer Shop Management System\obj\Debug\Computer Shop Management System.pdb
